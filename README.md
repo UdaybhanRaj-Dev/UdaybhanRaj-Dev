@@ -19,6 +19,7 @@ For Collaboration, Internship Opportunities, or Project Discussions 🤝
 ## 🌐 Connect with Me
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Udaybhan%20Raj)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udaybhanraj196@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/udaybhan-raj-65372932b)
 
 ---
 
